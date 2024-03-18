@@ -3,7 +3,7 @@
 About me...
 
 
-Howdy.
+## Howdy.
 ===
 My name is Kadyn Martinez, I'm a senior in Compuer Science at chico state.
 
@@ -15,4 +15,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+[Turnin' up the heat](j01/)
