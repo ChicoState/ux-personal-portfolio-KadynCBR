@@ -4,7 +4,6 @@ I have a tower heater in my room that I use over winter. It's a duraflame brand 
 
 I know this isn't supposed to be a review, so I'll try to keep it in the context of actually accomplishing things, but there's quite a lot this device gets wrong when it comes to usability.
 
-# Interface
 <img src="../assets/heat1.jpg" alt="heater image" width="450"/>
 
 The heater itself comes with a controller. Already you might be noticing theres some differences here. there are 5 usable buttons on the controller (although easily room for 6) and 6 buttons on the device itself. The buttons do not match. 
